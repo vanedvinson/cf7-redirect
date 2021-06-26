@@ -18,4 +18,5 @@ function woocommerce_js(){
         }, false );
     </script>
     <?php
-
+}
+<h1>Faris</h1>
