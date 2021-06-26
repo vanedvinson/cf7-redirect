@@ -1,5 +1,5 @@
 <!-- [dynamichidden dynamichidden-601 id:cfkontaktform "CF7_URL"] -->
-
+<!-- neke izmene -->
 add_action('wp_head','woocommerce_js');
 
 function woocommerce_js(){
