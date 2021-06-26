@@ -18,3 +18,4 @@ function woocommerce_js(){
     </script>
     <?php
 }
+<h1>Faris</h1>
